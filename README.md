@@ -1,2 +1,3 @@
-# python-task2
-My Second Python Task
+side=int(input("enter side of a square"));
+area=side*side;
+print("Area Of The Square",+str(area));
